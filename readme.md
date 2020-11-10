@@ -3,4 +3,4 @@
 Aplicación que interacciona con un archivo tipo **.json** para guardar, editar, eliminar y listar las músicas.
 + Uso de yargs
 + Uso de fs(File System Module)
-+ Udo de chalk
++ Uso de chalk
